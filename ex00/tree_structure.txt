@@ -1,0 +1,47 @@
+.:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:08 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 09:58 ..
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:00 archives
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:12 ex00
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 projects
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:00 tools
+
+./archives:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:00 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:08 ..
+
+./ex00:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:12 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:08 ..
+-rwxrwxrwx 1 ntc ntc   0 Oct  1 10:12 tree_structure.txt
+
+./projects:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:08 ..
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 web
+
+./projects/web:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 ..
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 backend
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 frontend
+
+./projects/web/backend:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 ..
+
+./projects/web/frontend:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:02 ..
+
+./tools:
+total 0
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:00 .
+drwxrwxrwx 1 ntc ntc 512 Oct  1 10:08 ..
