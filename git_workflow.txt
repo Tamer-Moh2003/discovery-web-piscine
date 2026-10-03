@@ -1,0 +1,5 @@
+1. Edit: Git modified the code and made the necessary change in my life 
+2. Add: Git staged the update files to get them ready for the next snapshot
+3. Commit: Git saved my changes locally with a clear message 
+4. Push: git uploaded my locaal commits up to the remote repo so everyone can see them 
+
